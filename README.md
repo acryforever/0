@@ -1,2 +1,0 @@
-# capmoo-rider
-capmoo-rider
